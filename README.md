@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shriraj888
-- 👀 I’m interested in c/c++
+- 👀 I’m interested in c/c++ , java
 - 🌱 I’m currently learning computer tech 
 - 💞️ I’m beginner here
 - 📫 How to reach me shriraj399@gmail.com
