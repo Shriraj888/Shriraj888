@@ -1,31 +1,80 @@
-<h1 align="center">Hi 👋, I'm Shriraj</h1>
-<h3 align="center">A passionate frotend developer</h3>
+# Hi there, I'm Shriraj! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shriraj888&label=Profile%20views&color=0e75b6&style=flat" alt="shriraj888" /> </p>
+Welcome to my GitHub profile! I'm passionate about technology and love building innovative solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriraj888" alt="shriraj888" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm always learning and exploring new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about anything tech-related
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Add something interesting about yourself]
 
-- 🌱 I’m currently learning **react , DSA , backend**
+## 🛠️ Technologies & Tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shriraj888](https://github.com/Shriraj888)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/shriraj-patil-75914a2a3](www.linkedin.com/in/shriraj-patil-75914a2a3)
+## 📊 GitHub Stats
 
-- 💬 Ask me about **react , javascript , python**
+![Shriraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriraj888&show_icons=true&theme=radical)
 
-- 📫 How to reach me **shriraj399@gmail.com**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriraj888&layout=compact&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shriraj888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shriraj888" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shriraj-patil-75914a2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriraj-patil-75914a2a3" height="30" width="40" /></a>
-</p>
+## 🔥 GitHub Streak
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shriraj888&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriraj888&show_icons=true&locale=en&layout=compact" alt="shriraj888" /></p>
+## 🏆 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriraj888&show_icons=true&locale=en" alt="shriraj888" /></p>
+### [Project Name 1](link-to-repo)
+Brief description of your most impressive project.
+
+### [Project Name 2](link-to-repo)
+Brief description of another cool project you've built.
+
+### [Project Name 3](link-to-repo)
+Description of a third notable project.
+
+## 📈 Activity Graph
+
+![Shriraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shriraj888&theme=react-dark)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+
+## 💼 Professional Experience
+
+- **[Current Role]** at **[Company Name]** (Year - Present)
+  - Brief description of your role and achievements
+  
+- **[Previous Role]** at **[Company Name]** (Year - Year)
+  - Brief description of your role and achievements
+
+## 🎯 Current Goals
+
+- [ ] Contribute to more open source projects
+- [ ] Learn new technologies
+- [ ] Build something impactful
+- [ ] Connect with fellow developers
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](link-to-post)
+- [Blog Post Title 2](link-to-post)
+- [Blog Post Title 3](link-to-post)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+⭐️ From [Shriraj888](https://github.com/Shriraj888)
