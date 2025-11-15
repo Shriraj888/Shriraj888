@@ -1,12 +1,75 @@
-#  About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on Open-source tools with a focus on developer productivity<br>🤝 I’m looking for internships<br>🌱 I’m currently learning DSA<br>💬 Ask me about Anything related to building and deploying web apps <br>⚡ Fun fact vibe coder
+<h1 align="center">Hi, I'm Shriraj 👋</h1>
 
+<p align="center">
+  <b>Full-Stack Developer • Web3 Explorer • AI/LLM Enthusiast</b>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shriraj-patil-75914a2a3)  
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 About Me
 
+I love building modern web experiences, experimenting with new technologies, and learning how the next generation of apps are created.  
+I focus on writing clean code, creating simple solutions, and understanding how products work end to end.
 
- 
+- 🌐 Working on modern **full-stack web development**  
+- 🤖 Exploring **AI, LLMs, and intelligent automation**  
+- 🔗 Learning **Web3 fundamentals and decentralized concepts**  
+- 🎯 Preparing for **internship opportunities**  
+- 📚 Improving in **DSA and core CS fundamentals**  
+- 😎 I like clarity, minimalism, and good music while coding  
+
+I’m driven by curiosity, consistency, and a passion for building things that feel smooth and intuitive.
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java" /></p>
+
+### **Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" /></p>
+
+### **Backend (Basics) & Cloud**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,vercel,render" /></p>
+
+> *Note: I work with backend tools mainly for full-stack functionality, not as a deep backend specialist.*
+
+### **Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
+
+### **Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" /></p>
+
+---
+
+## 🔬 AI, LLM & Web3 Interests
+
+I enjoy exploring how modern technologies shape future applications:
+
+- Building **LLM-assisted features**  
+- Experimenting with **AI prompts, embeddings & automation**  
+- Understanding **Web3 concepts, decentralized models & blockchain basics**  
+- Learning how AI + Web technologies can blend into smarter user experiences  
+- Keeping up with advancements in **agentic workflows & LLM tools**
+
+---
+
+## 🧩 What I’m Focusing On
+
+Right now, I’m sharpening my skills by:
+
+- Strengthening **full-stack development fundamentals**  
+- Practicing **DSA** for better problem-solving  
+- Learning **system design basics**  
+- Understanding how **AI** integrates into modern apps  
+- Exploring **Web3 architecture & smart contract basics**  
+- Writing cleaner, simpler, and more maintainable code
+
+---
+
+## ✨ Let’s Connect
+
+If you’re into AI, Web3, modern development, or collaborative building —  
+I’m always open to connect and learn with others.
+
