@@ -33,7 +33,6 @@ I’m driven by curiosity, consistency, and a passion for building things that f
 ### **Backend (Basics) & Cloud**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,vercel,render" /></p>
 
-> *Note: I work with backend tools mainly for full-stack functionality, not as a deep backend specialist.*
 
 ### **Databases**
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></p>
@@ -72,4 +71,5 @@ Right now, I’m sharpening my skills by:
 
 If you’re into AI, Web3, modern development, or collaborative building —  
 I’m always open to connect and learn with others.
+
 
